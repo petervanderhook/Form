@@ -1,0 +1,14 @@
+
+:root {
+    --main-bg-color: brown;
+    --light-bg-color: white;
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+.formcontainer {
+    background-color: var(--light-bg-color);
+}
+
